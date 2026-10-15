@@ -1,0 +1,9 @@
+{
+  "name": "EcoTrack India",
+  "description": "Real-time AI waste management and recycling platform with Gemini computer vision, collector camera scanning, GPS pickup tracking, and Supabase database.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
